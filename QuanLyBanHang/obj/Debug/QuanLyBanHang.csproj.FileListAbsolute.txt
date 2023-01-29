@@ -1,0 +1,16 @@
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe.config
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.AssemblyReference.cache
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmMain.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.exe
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmNhanVien.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmKhachHang.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmHangHoa.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmThongKe.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmBanHang.resources
+D:\màn hình\Quản Lý Bán Hàng\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
